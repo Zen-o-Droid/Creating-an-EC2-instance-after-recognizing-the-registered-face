@@ -1,4 +1,4 @@
-# stTask6
+# Task6
 
 Create a program that perform below mentioned task upon recognizing a particular face
 📌 When it recognize your face then -
